@@ -31,3 +31,5 @@ GROUP BY
 
 
 SELECT * FROM IncomeSummary WHERE TotalIncome > 20000;
+
+/*Updated SQL sent to Lakshman*/
